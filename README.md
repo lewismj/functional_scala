@@ -7,6 +7,15 @@ introduce functional programming concepts. I usually recommend the
 Paul Chiusana and Runar Bjarnason book. However, it can help to
 briefly introduce the concepts required.
 
+
+## LambdaCalculus
+
+A brief and in need of numerous examples, explanation of the lambda calculus.
+From pure lamabda calculus through to algorithm W, need to add a Scala example
+at the end.
+
+## ScalaFP
+
 The presentation is for developers new to Scala, but may have completed the EPFL Scala courses.
 It is not intended as an introduction.
 
